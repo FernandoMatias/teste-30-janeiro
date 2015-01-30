@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <contato>
+	<id></id>
+	<nome>Joao</nome>
+	<sobrenome>Silva</sobrenome>
+	<email>joao.silva@email.com</email>
+	<endereco>rua 10</endereco>
+    </contato>
+    <contato>
+	<nome>Fernando</nome>
+	<sobrenome>Pereira </sobrenome>
+	<email></email>
+	<endereco></endereco>
+    </contato>
+</data> 
